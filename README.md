@@ -1,4 +1,4 @@
-# Exam_verification-
+# Exam-attendance-verifier
 
 This repository contains simple scripts to help verify and extract information
 from exam attendance lists and similar scanned images. The core scripts use
